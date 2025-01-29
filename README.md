@@ -6,12 +6,7 @@
 <h4 align="center">I’m a cybersecurity professional with hands-on experience in web application, Android, API, and Active Directory penetration testing. I’m always eager to learn and stay up-to-date with the latest security trends and techniques.</h4>
 <br>
 
-<a href="https://linkedin.com/scratch"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@yourusername"><img src="https://img.shields.io/badge/-Medium-00ab6c?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" /></a>
-
-
+![](https://komarev.com/ghpvc/?username=princeoffl&color=blueviolet)
 
 <details>
   <summary>More about me</summary>
@@ -20,7 +15,7 @@
 - **From**: India
 - **Cyber Security Enthusiast** | **Pentester** |
 - I have experience with web application pentesting, android pentesting, API pentesting and active directory pentesting.
-- Continuously improving my knowledge of **Website Vulnerabilities** and **Cybersecurity Skills**.
+- improving my knowledge in **Website Vulnerabilities** and **Cybersecurity Skills**.
 - I’m currently learning and exploring **advanced hacking techniques**, and **cybersecurity certifications**.
 
 </details>
@@ -77,3 +72,7 @@ Check out my blogs **[here](https://medium.com/@princeoffl)**
 ---
 
 ## 🙋‍♀️ Let's Connect
+<a href="https://linkedin.com/in/prince-vargheseoffl"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="LinkedIn" width="40" height="40" /></a>
+<a href="https://medium.com/@princeoffl"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968906.png" alt="Medium" width="40" height="40" /></a>
+<a href="https://x.com/princeVarg87441"><img src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" alt="X" width="40" height="40" /></a>
+<a href="https://github.com/princeoffl"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968866.png" alt="GitHub" width="40" height="40" /></a>
