@@ -11,7 +11,7 @@
 <details>
   <summary>More about me</summary>
 
-- **Name**: prince Varghese
+- **Name**: Prince Varghese
 - **From**: India
 - **Cyber Security Enthusiast** | **Pentester** |
 - I have experience with web application pentesting, android pentesting, API pentesting and active directory pentesting.
